@@ -1,6 +1,6 @@
 # 需求到交付流程平台设计
 
-> 状态：已完成逐段讨论，等待最终审阅
+> 状态：已批准
 > 日期：2026-08-18
 > 语言约定：[CONTEXT.md](../../../CONTEXT.md)
 > 研究依据：[industry-workflow-skill-nodes.md](../../research/industry-workflow-skill-nodes.md)
