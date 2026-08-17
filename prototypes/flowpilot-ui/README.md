@@ -1,6 +1,6 @@
-# 一次性员工流程工作台原型
+# FlowPilot 员工流程工作台原型
 
-这个原型只用于比较页面信息架构，不是产品代码。
+这个 FlowPilot 原型只用于比较页面信息架构，不是产品代码。
 
 ## 评审结论
 
@@ -12,7 +12,7 @@
 在项目根目录运行：
 
 ```powershell
-node prototypes/employee-workflow-ui/server.mjs
+node prototypes/flowpilot-ui/server.mjs
 ```
 
 打开 `http://127.0.0.1:4173/?variant=A`，使用页面底部按钮或键盘左右方向键切换：
